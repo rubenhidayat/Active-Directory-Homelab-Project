@@ -242,6 +242,6 @@ Log in as `rhidayat` from IT
 
 ### Verify
 
-- Log in as `msutrisno` and the `I` drive is available to access
+1. Log in as `msutrisno` and the `I` drive is available to access
 
     ![alt text](screenshots-7/check-i-access.png)
