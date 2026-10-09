@@ -19,10 +19,10 @@ Two VMS, **DC01** (Windows Server 2022, domain controller) and **CLIENT01** (Win
 
 ## Table of Contents
 
-- [01 - Lab Architecture](docs/01-Lab-Architecture)
+- [01 - Lab Architecture](docs/01-Lab-Architecture.md)
 - [02 - Tools and Software Used](docs/02-Tools-and-Software-Used.md)
 - [03 - VM Creation and OS Installation](docs/03-VM-Creation-and-OS-installation.md)
 - [04 - Initial Configuration, Domain Promotion, and Domain Join](docs/04-initial-configuration-domain-promotion-and-domain-join.md)
 - [05 - Organization Units, Users, Groups and Shared Folder Permissions](docs/05-Organizational-Units-users-groups-and-shared-folder-permissions.md)
 - [06 - Group Policy and Delegated Access](docs/06-Group-Policy-and-Delegated-Access.md)
-- 07 - Helpdesk Scenario Walktroughs
+- [07 - Helpdesk Scenario Walktroughs](docs/07-Helpdesk-Scenario-Walktroughs.md)
